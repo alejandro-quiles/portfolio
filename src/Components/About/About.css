@@ -1,0 +1,54 @@
+.about-master-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-title-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 4em;
+}
+
+.about-title-container h4 {
+    font-size: 4em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.linea-about  {
+    width: 2em;
+    height: 0.5em;
+    background-color: #33F3FC;
+}
+
+.about-me-description {
+    margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-me-description img {
+    width: 60%;
+    border: 2px solid #33F3FC;
+    margin-bottom: 3em;
+}
+
+.about-me-description h5 {
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.about-me-description p {
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 1em;
+    line-height: 1.2em;
+    text-align: center;
+}
