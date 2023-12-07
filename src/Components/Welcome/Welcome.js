@@ -6,7 +6,7 @@ const Welcome = () => {
         <>
             <div className='welcome-container'>
                 <div className='titulo-container'>
-                    <h4>Hello!</h4>
+                    <h4>Hello! I'm changing</h4>
                     <div className='linea-home'></div>
                 </div>
                 <section id="section07" className="demo">
